@@ -1,0 +1,19 @@
+{
+  "name": "get-asin",
+  "version": "1.0.0",
+  "description": "A package to extract the amazon ASIN out of a url",
+  "main": "getAsin.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "27.1.0"
+  },
+  "keywords": [
+    "amazon",
+    "asin",
+    "url"
+  ],
+  "author": "Alon Segal",
+  "license": "ISC"
+}
